@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите число от 1 до 7: ");
+﻿// Напишите прогрумму, которая будет выдавать дня недели по заданному номеру.
+
+Console.WriteLine("Введите число от 1 до 7: ");
 string number = Console.ReadLine();
 if (number == "1")
 {
